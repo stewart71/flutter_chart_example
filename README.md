@@ -1,4 +1,4 @@
-# refuse_work
+# flutter_chart_example
 
 A new Flutter project.
 
